@@ -1,14 +1,14 @@
 <!--
  * @,@Author: ,: your name
  * @,@Date: ,: 2020-11-04 10:01:40
- * @,@LastEditTime: ,: 2020-11-04 10:02:08
+ * @,@LastEditTime: ,: 2020-11-04 11:54:05
  * @,@LastEditors: ,: Please set LastEditors
  * @,@Description: ,: In User Settings Edit
  * @,@FilePath: ,: \study-hard\my-project\src\pages\App.vue
  -->
 <template>
   <div id="app">
-  login
+    <router-view />
   </div>
 </template>
 
